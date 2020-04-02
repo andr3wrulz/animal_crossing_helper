@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h1>Error!</h1>
+<p>You seem to have stumbled on a problem, please let Andrew know what you were doing that led to this error.</p>
+
+{% if error_msg %}
+  <p>{{ error_msg }}</p>
+{% else %}
+  <p>No error details are available.</p>
+{% endif %}
+
+{% endblock %}

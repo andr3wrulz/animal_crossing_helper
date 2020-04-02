@@ -1,0 +1,65 @@
+{% extends "base.html" %}
+
+{% load humanize %}
+
+{% block content %}
+
+{% if bug_list %}
+  <h1>Bug List:</h1>
+  <table class="table table-striped table-sm">
+    <thead class="thead-dark">
+      <tr>
+        <th>Name</th>
+        <th>Location</th>
+        <th>Time</th>
+        <th>Seasonality</th>
+        <th>Price</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      {% for bug in bug_list %}
+        <tr>
+          <td>{{ bug.name }}</td>
+          <td>{{ bug.location }}</td>
+          <td>{{ bug.time }}</td>
+          <td>{{ bug.seasonality }}</td>
+          <td>{{ bug.price|intcomma }}</td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+{% else %}
+  <p>No bugs are available.</p>
+{% endif %}
+
+{% if fish_list %}
+  <h1>Fish List:</h1>
+  <table class="table table-striped">
+    <thead class="thead-dark">
+      <tr>
+        <th>Name</th>
+        <th>Location</th>
+        <th>Time</th>
+        <th>Seasonality</th>
+        <th>Price</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      {% for fish in fish_list %}
+        <tr>
+          <td>{{ fish.name }}</td>
+          <td>{{ fish.location }}</td>
+          <td>{{ fish.time }}</td>
+          <td>{{ fish.seasonality }}</td>
+          <td>{{ fish.price|intcomma }}</td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+{% else %}
+  <p>No fish are available.</p>
+{% endif %}
+
+{% endblock %}
