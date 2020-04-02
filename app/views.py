@@ -57,7 +57,6 @@ def month(request, month_name):
   fish_list = []
 
   for c in creature_list:
-    print ("Processing " + c.name)
     # If we can't catch this creature this month, skip it
     if (not getattr(c, month_name)):
       continue

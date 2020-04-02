@@ -1,0 +1,55 @@
+Agrias Butterfly,Apr - Sept,Flying,8 AM - 5 PM,3000,bug,N,N,N,Y,Y,Y,Y,Y,Y,N,N,N
+Atlas Moth,Apr - Sept,Tree,7 PM - 4 AM,3000,bug,N,N,N,Y,Y,Y,Y,Y,Y,N,N,N
+Ant,All year,On rotten fruit and turnips,All day,80,bug,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Bagworm,All year,Shake tree,All day,600,bug,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Centipede,Sept - June,Hit rocks,5 PM - 11 PM,430,bug,Y,Y,Y,Y,Y,Y,N,N,Y,Y,Y,Y
+Citrus Long-Horned Beetle,All year,Tree stump,All day,350,bug,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Common Bluebottle,Apr - Aug,Flying,4 AM - 7 PM,300,bug,N,N,N,Y,Y,Y,Y,Y,N,N,N,N
+Common Butterfly,Sept - June,Flying,4 AM - 7 PM,160,bug,Y,Y,Y,Y,Y,Y,N,N,Y,Y,Y,Y
+Cricket,Sept - Nov,Ground,5 PM - 8 AM,130,bug,N,N,N,N,N,N,N,N,Y,Y,Y,N
+Damselfly,Nov - Feb,Flying,All day,500,bug,Y,Y,N,N,N,N,N,N,N,N,Y,Y
+Darner Dragonfly,Apr - Oct,Flying,8 AM - 5 PM,230,bug,N,N,N,Y,Y,Y,Y,Y,Y,Y,N,N
+Diving Beetle,May - Sept,River,8 AM - 7 PM,800,bug,N,N,N,N,Y,Y,Y,Y,Y,N,N,N
+Dung Beetle,Dec - Feb,Snowballs,All day,2500,bug,Y,Y,N,N,N,N,N,N,N,N,N,Y
+Earth-Boring Dung Beetle,July - Sept,Ground,All day,300,bug,N,N,N,N,N,N,Y,Y,Y,N,N,N
+Emperor Butterfly,"Dec - Mar, June - Sept",Flying,5 PM - 8 AM,4000,bug,Y,Y,Y,N,N,Y,Y,Y,Y,N,N,Y
+Flea,Apr - Nov,On a flea-infested villager,All day,70,bug,N,N,N,Y,Y,Y,Y,Y,Y,Y,Y,N
+Fly,All year,On rotten fruit or garbage,All day,60,bug,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Grasshopper,July - Sept,Ground,8 AM - 5 PM,160,bug,N,N,N,N,N,N,Y,Y,Y,N,N,N
+Hermit Crab,All year,Beach,7 PM - 8 AM,1000,bug,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Honeybee,Mar - July,Near flowers,8 AM - 5 PM,200,bug,N,N,Y,Y,Y,Y,Y,N,N,N,N,N
+Jewel Beetle,Apr - Aug,Tree stump,All day,2400,bug,N,N,N,Y,Y,Y,Y,Y,N,N,N,N
+Ladybug,"Mar - June, Oct",Flowers,8AM - 5PM,200,bug,N,N,Y,Y,Y,Y,N,N,N,Y,N,N
+Long Locust,Apr - Nov,Ground,8 AM - 7 PM,200,bug,N,N,N,Y,Y,Y,Y,Y,Y,Y,Y,N
+Madagascan Sunset Moth,Apr - Sept,Flying,8 AM - 4 PM,2500,bug,N,N,N,Y,Y,Y,Y,Y,Y,N,N,N
+Man-Faced Stink Bug,Mar - Oct,Flowers,7 PM - 8 AM,1000,bug,N,N,Y,Y,Y,Y,Y,Y,Y,Y,N,N
+Mantis,Mar - Nov,Flowers,8 AM - 5 PM,430,bug,N,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N
+Migratory Locust,Feb - May,Ground,8 AM - 7 PM,200,bug,N,Y,Y,Y,Y,N,N,N,N,N,N,N
+Mole Cricket,Nov - May,Underground,All day,500,bug,Y,Y,Y,Y,Y,N,N,N,N,N,Y,Y
+Monarch Butterfly,Sept - Nov,Flying,4 AM - 5 PM,140,bug,N,N,N,N,N,N,N,N,Y,Y,Y,N
+Mosquito,June - Sept,Flying,5 PM - 4 AM,130,bug,N,N,N,N,N,Y,Y,Y,Y,N,N,N
+Moth,All year,Lit windows,7 PM - 4 AM,130,bug,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Orchid Mantis,Mar - Nov,Flowers,8 AM - 5 PM,2400,bug,N,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N
+Paper Kite Butterfly,All year,Flying,8 AM - 7 PM,1000,bug,N,N,Y,Y,Y,Y,N,N,N,N,N,N
+Peacock Butterfly,Mar - June,"Near black, blue, or purple flowers",4 AM - 7 PM,2500,bug,N,N,Y,Y,Y,Y,N,N,N,N,N,N
+Pill Bug,Sept - June,Hit rocks,11 PM - 4 PM,250,bug,Y,Y,Y,Y,Y,Y,N,N,Y,Y,Y,Y
+Pondskater,May - Sept,River,8 AM - 7 PM,130,bug,N,N,N,N,Y,Y,Y,Y,Y,N,N,N
+Queen Alexandras Birdwing,May - Sept,Flying,8 AM - 4 PM,4000,bug,N,N,N,N,Y,Y,Y,Y,Y,N,N,N
+Rainbow Stag,June - Sept,Tree,7 PM - 8 AM,6000,bug,N,N,N,N,N,Y,Y,Y,Y,N,N,N
+Rajah Brookes Birdwing,"Dec - Feb, Apr - Sept","Near black, blue, or purple flowers",8 AM - 5 PM,2500,bug,Y,Y,N,Y,Y,Y,Y,Y,Y,N,N,Y
+Red Dragonfly,Sept - Oct,Flying,8 AM - 7 PM,180,bug,N,N,N,N,N,N,N,N,Y,Y,N,N
+Rosalia Batsei Beetle,May - June,Tree stump,All day,3000,bug,N,N,N,N,Y,Y,N,N,N,N,N,N
+Scorpion,May - Oct,Ground,7 PM - 4 AM,8000,bug,N,N,N,N,Y,Y,Y,Y,Y,Y,N,N
+Snail,All year,Rock (rain),All day,250,bug,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Spider,All year,Shake tree,7 PM - 8 AM,600,bug,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Stinkbug,Mar - Oct,Flowers,All day,120,bug,N,N,Y,Y,Y,Y,Y,Y,Y,Y,N,N
+Tarantula,Nov - Apr,Ground,7 PM - 4 AM,8000,bug,N,N,Y,Y,Y,Y,Y,Y,Y,Y,N,N
+Tiger Beetle,Feb - Oct,Ground,All day,1500,bug,Y,Y,Y,Y,N,N,N,N,N,N,Y,Y
+Tiger Butterfly,Mar - Sept,Flying,4 AM - 7 PM,240,bug,N,N,Y,Y,Y,Y,Y,Y,Y,N,N,N
+Violin Beetle,"May - June, Sept - Nov",Tree stump,All day,450,bug,N,N,N,N,Y,Y,N,N,Y,Y,Y,N
+Walker Cicada,Aug - Sept,Tree,8 AM - 4 PM,400,bug,N,N,N,N,N,N,N,Y,Y,N,N,N
+Walking Leaf,July - Sept,Ground,All day,600,bug,N,N,N,N,N,N,Y,Y,Y,N,N,N
+Walking Stick,July - Nov,Tree,"4 AM - 8 PM, 4 PM - 8 AM",600,bug,N,N,N,N,N,N,Y,Y,Y,Y,Y,N
+Wasp,All year,Shake tree,All day,2500,bug,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Wharf Roach,All year,Beach (rocks),All day,200,bug,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Yellow Butterfly,"Mar - June, Sept - Oct",Flying,4 AM - 7 PM,160,bug,N,N,Y,Y,Y,Y,N,N,Y,Y,N,N

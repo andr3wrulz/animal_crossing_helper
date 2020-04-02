@@ -1,0 +1,74 @@
+Anchovy,All year,Ocean,4 AM - 9 PM,200,fish,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Angelfish,May - Oct,River,4 PM - 9 AM,3000,fish,N,N,N,N,Y,Y,Y,Y,Y,Y,N,N
+Arapaima,June - Sept,River,4 PM - 9 AM,8000,fish,N,N,N,N,N,Y,Y,Y,Y,N,N,N
+Arowana,June - Sept,River,4 PM - 9 AM,10000,fish,N,N,N,N,N,Y,Y,Y,Y,N,N,N
+Barred Knifejaw,Mar - Nov,Ocean,All day,5000,fish,N,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N
+Barreleye,All year,Ocean,9 PM - 4 AM,15000,fish,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Betta,May - Oct,River,9 AM - 4 PM,2500,fish,N,N,N,N,Y,Y,Y,Y,Y,Y,N,N
+Bitterling,Nov - Mar,River,All day,900,fish,Y,Y,Y,N,N,N,N,N,N,N,Y,Y
+Black Bass,All year,River,All day,400,fish,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Blowfish,Nov - Feb,Ocean,9 PM - 4 AM,5000,fish,Y,Y,N,N,N,N,N,N,N,N,Y,Y
+Blue Marlin,"Nov - Apr, July - Sept",Pier,All day,10000,fish,Y,Y,Y,Y,N,N,Y,Y,Y,N,Y,Y
+Bluegill,All year,River,9 AM - 4 PM,180,fish,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Butterfly Fish,Apr - Sept,Ocean,All day,1000,fish,N,N,N,Y,Y,Y,Y,Y,Y,N,N,N
+Carp,All year,River,All day,300,fish,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Catfish,May - Oct,Pond,4 PM - 9 AM,800,fish,N,N,N,N,Y,Y,Y,Y,Y,Y,N,N
+Char,"Mar - June, Sept - Nov",River,4 PM - 9 AM,3800,fish,N,N,Y,Y,Y,Y,N,N,Y,Y,Y,N
+Cherry Salmon,"Mar - June, Sept - Nov",River (Clifftop),All day,1000,fish,N,N,Y,Y,Y,Y,N,N,Y,Y,Y,N
+Clown Fish,Apr - Sept,Ocean,All day,650,fish,N,N,N,Y,Y,Y,Y,Y,Y,N,N,N
+Coelacanth,All year,Ocean (Rain),All day,15000,fish,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Crawfish,Apr - Sept,Pond,All day,200,fish,N,N,N,Y,Y,Y,Y,Y,Y,N,N,N
+Crucian Carp,All year,River,All day,160,fish,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Dab,Oct - Apr,Ocean,All day,300,fish,Y,Y,Y,Y,N,N,N,N,N,Y,Y,Y
+Dace,All year,River,4 PM - 9 AM,240,fish,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Dorado,June - Sept,River,4 AM - 9 PM,12000,fish,N,N,N,N,N,Y,Y,Y,Y,N,N,N
+Football Fish,Nov - Mar,Ocean,4 PM - 9 AM,2500,fish,Y,Y,Y,N,N,N,N,N,N,N,Y,Y
+Freshwater Goby,All year,River,4 PM - 9 AM,400,fish,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Gar,June - Sept,Pond,4 PM - 9 AM,4800,fish,N,N,N,N,N,Y,Y,Y,Y,N,N,N
+Golden Trout,"Mar - May, Sept - Nov",River (Clifftop),4 PM - 9 AM,15000,fish,N,N,Y,Y,Y,N,N,N,Y,Y,Y,N
+Goldfish,All year,Pond,All day,1300,fish,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Great White Shark,June - Sept,Ocean,4 PM - 9 AM,15000,fish,N,N,N,N,N,Y,Y,Y,Y,N,N,N
+Guppy,Apr - Nov,River,9 AM - 4 PM,1300,fish,N,N,N,Y,Y,Y,Y,Y,Y,Y,Y,N
+Hammerhead Shark,June - Sept,Ocean,4 PM - 9 AM,8000,fish,N,N,N,N,N,Y,Y,Y,Y,N,N,N
+Horse Mackerel,All year,Ocean,All day,150,fish,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Killifish,Apr - Aug,Pond,All day,200,fish,N,N,N,Y,Y,Y,Y,Y,N,N,N,N
+King Salmon,Sept,River (Mouth),All day,1800,fish,N,N,N,N,N,N,N,N,Y,N,N,N
+Koi,All year,Pond,4 PM - 9 AM,4000,fish,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Loach,Mar - May,River,All day,400,fish,N,N,Y,Y,Y,N,N,N,N,N,N,N
+Mitten Crab,Sept - Nov,River,4 PM - 9 AM,2000,fish,N,N,N,N,N,N,N,N,Y,Y,Y,N
+Moray Eel,Aug - Oct,Ocean,All day,2000,fish,N,N,N,N,N,N,N,Y,Y,Y,N,N
+Neon Tetra,Apr - Nov,River,9 AM - 4 PM,500,fish,N,N,N,Y,Y,Y,Y,Y,Y,Y,Y,N
+Nibble Fish,May - Sept,River,9 AM - 4 PM,1500,fish,N,N,N,N,Y,Y,Y,Y,Y,N,N,N
+Oarfish,Dec - May,Ocean,All day,9000,fish,Y,Y,Y,Y,Y,N,N,N,N,N,N,Y
+Ocean Sunfish,July - Sept,Ocean,4 AM - 9 PM,4000,fish,N,N,N,N,N,N,Y,Y,Y,N,N,N
+Olive Flounder,All year,Ocean,All day,800,fish,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Pale Chub,All year,River,9 AM - 4 PM,200,fish,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Pike,Sept - Dec,River,All day,1800,fish,N,N,N,N,N,N,N,N,Y,Y,Y,Y
+Piranha,June - Sept,River,"9 AM - 4 PM, 4 AM - 9 PM",2500,fish,N,N,N,N,N,Y,Y,Y,Y,N,N,N
+Pond Smelt,Dec - Feb,River,All day,320,fish,Y,Y,N,N,N,N,N,N,N,N,N,Y
+Pop-eyed Goldfish,All year,Pond,9 AM - 4 PM,1300,fish,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Puffer Fish,July - Sept,Ocean,All day,250,fish,N,N,N,N,N,N,Y,Y,Y,N,N,N
+Rainbowfish,May - Oct,River,9 AM - 4 PM,800,fish,N,N,N,N,Y,Y,Y,Y,Y,Y,N,N
+Ranchu Goldfish,All year,Pond,9 AM - 4 PM,4500,fish,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Ray,Aug - Nov,Ocean,4 AM - 9 PM,3000,fish,N,N,N,N,N,N,N,Y,Y,Y,Y,N
+Red Snapper,All year,Ocean,All day,3000,fish,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Ribbon Eel,July - Oct,Ocean,All day,600,fish,N,N,N,N,N,N,Y,Y,Y,Y,N,N
+Salmon,Sept,River (Mouth),All day,700,fish,N,N,N,N,N,N,N,N,Y,N,N,N
+Saw Shark,June - Sept,Ocean,4 PM - 9 AM,12000,fish,N,N,N,N,N,Y,Y,Y,Y,N,N,N
+Sea Bass,All year,Ocean,All day,400,fish,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Sea Butterfly,Dec - Mar,Ocean,All day,1000,fish,Y,Y,Y,N,N,N,N,N,N,N,N,Y
+Sea Horse,Apr - Nov,Ocean,All day,1100,fish,N,N,N,Y,Y,Y,Y,Y,Y,Y,Y,N
+Snapping Turtle,Apr - Oct,River,9 PM - 4 AM,5000,fish,N,N,N,Y,Y,Y,Y,Y,Y,Y,N,N
+Soft-shelled Turtle,Aug - Sept,River,4 PM - 9 AM,3750,fish,N,N,N,N,N,N,N,Y,Y,N,N,N
+Squid,Dec - Aug,Ocean,All day,500,fish,Y,Y,Y,Y,Y,Y,Y,Y,N,N,N,Y
+Stringfish,Dec - Mar,River (Clifftop),4 PM - 9 AM,15000,fish,Y,Y,Y,N,N,N,N,N,N,N,N,Y
+Sturgeon,Sept - Mar,River (Mouth),All day,10000,fish,Y,Y,Y,N,N,N,N,N,Y,Y,Y,Y
+Suckerfish,June - Sept,Ocean,All day,1500,fish,N,N,N,N,N,Y,Y,Y,Y,N,N,N
+Surgeonfish,Apr - Sept,Ocean,All day,1000,fish,N,N,N,Y,Y,Y,Y,Y,Y,N,N,N
+Sweetfish,July - Sept,River,All day,900,fish,N,N,N,N,N,N,Y,Y,Y,N,N,N
+Tadpole,Mar - July,Pond,All day,100,fish,N,N,Y,Y,Y,Y,Y,N,N,N,N,N
+Tilapia,June - Oct,River,All day,800,fish,N,N,N,N,N,Y,Y,Y,Y,Y,N,N
+Tuna,Nov - Apr,Pier,All day,7000,fish,Y,Y,Y,Y,N,N,N,N,N,N,Y,Y
+Whale Shark,June - Sept,Ocean,All day,13000,fish,N,N,N,N,N,Y,Y,Y,Y,N,N,N
+Yellow Perch,Oct - Mar,River,All day,300,fish,Y,Y,Y,N,N,N,N,N,N,Y,Y,Y
+Zebra Turkeyfish,"April - May, July - Nov",Ocean,All day,500,fish,N,N,N,Y,Y,N,Y,Y,Y,Y,Y,N
