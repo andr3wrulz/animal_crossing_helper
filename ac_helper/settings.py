@@ -29,7 +29,7 @@ def get_secret_key():
     except KeyError:
         # No env var, try the file
         try:
-            f = open('django_secret.txt')
+            f = open('mount/django_secret.txt')
             return f.read().strip()
         except IOError: 
             raise ImproperlyConfigured("Env var DJANGO_SECRET_KEY needs to be set or django_secret.txt needs to be populated.")
@@ -94,7 +94,7 @@ WSGI_APPLICATION = 'ac_helper.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        'NAME': os.path.join(BASE_DIR, 'mount/db.sqlite3'),
     }
 }
 

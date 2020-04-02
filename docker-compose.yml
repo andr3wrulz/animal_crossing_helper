@@ -1,0 +1,8 @@
+version: '3'
+services:
+  animal_crossing_helper:
+    image: andrewgeltz/animal_crossing_helper
+    ports:
+      - "8000:8000"
+    volumes:
+      - "${USERDIR}/docker/animal_crossing_helper/:/usr/src/app/mount"
