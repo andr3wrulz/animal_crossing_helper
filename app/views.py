@@ -9,6 +9,9 @@ from .models import Creature
 def art(request):
   return render(request, 'art.html')
 
+def flowers(request):
+  return render(request, 'flowers.html')
+
 # Index page is list of all creatures in the db
 def all(request):
   # Grab all creatures

@@ -11,4 +11,5 @@ urlpatterns = [
   path('all', views.all, name='all'), # List all page
   path('month/<slug:month_name>/', views.month, name='month'), # Monthly highlights page
   path('art', views.art, name='art'), # Artwork (fake checking) page
+  path('flowers', views.flowers, name='flowers'), # Flower and hybrid page
 ]
