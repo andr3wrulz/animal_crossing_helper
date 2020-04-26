@@ -6,6 +6,8 @@ from django.http import HttpResponse
 # Load the database objects
 from .models import Creature
 
+def art(request):
+  return render(request, 'art.html')
 
 # Index page is list of all creatures in the db
 def all(request):

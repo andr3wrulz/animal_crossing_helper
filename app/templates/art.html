@@ -1,0 +1,239 @@
+{% extends "base.html" %}
+
+{% load humanize %}
+{% load static %}
+
+{% block content %}
+
+<h1>Artwork list:</h1>
+<p class=".text-danger">Be aware, there are multiple variants of fakes. Always check against the real painting to be sure.</p>
+<table class="table table-striped table-sm">
+  <thead class="thead-dark">
+    <tr>
+      <th width="40%">Name</th>
+      <th width="30%">Notes</th>
+      <th width="30%">Picture</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td>Academic Painting (Vitruvian Man by Leonardo Da Vinci)</td>
+      <td>Fake has a coffee stain</td>
+      <td><img src="{% static "Leonardo-Vitruvian-Man.jpg" %}" alt="Leonardo-Vitruvian-Man.jpg" class="img-thumbnail"></td>
+    </tr>
+    <tr>
+      <td>Amazing Painting (The Night Watch by Rembrandt Van Rijn)</td>
+      <td>The man in the center (black with red sash) is missing his hat in the fake</td>
+      <td><img src="{% static "Rembrandt-Night-Watch.jpg" %}" alt="Rembrandt-Night-Watch.jpg" class="img-thumbnail"></td>
+    </tr>
+    <tr>
+      <td>Ancient Statue (Jomun Period "Dogu" Figurine Shakoki-Dogu by Unknown)</td>
+      <td>The fake statue has two antennas coming out of the side of its head</td>
+      <td><img src="{% static "Dogu-Figurine.jpg" %}" alt="Dogu-Figurine.jpg" class="img-thumbnail"></td>
+    </tr>
+    <tr>
+      <td>Basic Painting (The Blue Boy by Thomas Gainsborough)</td>
+      <td>The fake has longer hair (past shoulderlength)</td>
+      <td><img src="{% static "Blue-Boy-Gainsborough.png" %}" alt="Blue-Boy-Gainsborough.png" class="img-thumbnail"></td>
+    </tr>
+    <tr>
+      <td>Beautiful Statue (Venus De Milo by Alexandros of Antioch)</td>
+      <td>The fake version is wearing a necklace</td>
+      <td><img src="{% static "Venus-De-Milo.jpg" %}" alt="Venus-De-Milo.jpg" class="img-thumbnail"></td>
+    </tr>
+    <tr>
+      <td>Calm Painting (A Sunday Afternoon on the Island of La Grande Jatte by Georges Seurat)</td>
+      <td>This painting is always genuine (so far)</td>
+      <td><img src="{% static "A-Sunday-Afternoon.jpg" %}" alt="A-Sunday-Afternoon.jpg" class="img-thumbnail"></td>
+    </tr>
+    <tr>
+      <td>Common Painting (The Gleaners by Jean-Francois Millet)</td>
+      <td>This painting is always genuine (so far)</td>
+      <td><img src="{% static "The-Gleaners.jpg" %}" alt="The-Gleaners.jpg" class="img-thumbnail"></td>
+    </tr>
+    <tr>
+      <td>Detailed Painting (Ajisai Sokeizu by Ito Jakuchu)</td>
+      <td>The fake has purple foliage and is missing the signature (markings on the left middle)</td>
+      <td><img src="{% static "Ajisai-Sokeizu.jpg" %}" alt="Ajisai-Sokeizu.jpg" class="img-thumbnail"></td>
+    </tr>
+    <tr>
+      <td>Dynamic Painting (Thirty-Six Views of Mount Fuji the Great Wave off Kanagawa by Katsushika Hokusai)</td>
+      <td>This painting is always genuine (so far)</td>
+      <td><img src="{% static "The-Great-Wave.jpg" %}" alt="The-Great-Wave.jpg" class="img-thumbnail"></td>
+    </tr>
+    <tr>
+      <td>Familiar Statue (The Thinker by Auguste Rodin)</td>
+      <td>This statue is always genuine (so far)</td>
+      <td><img src="{% static "The-Thinker.jpg" %}" alt="The-Thinker.jpg" class="img-thumbnail"></td>
+    </tr>
+    <tr>
+      <td>Famous Painting (The Mona Lisa by Leonardo Da Vinci)</td>
+      <td>The fake has eyebrows</td>
+      <td><img src="{% static "Mona-Lisa.jpg" %}" alt="Mona-Lisa.jpg" class="img-thumbnail"></td>
+    </tr>
+    <tr>
+      <td>Flowery Painting (Sunflowers by Vincent Van Gogh)</td>
+      <td>This painting is always genuine (so far)</td>
+      <td><img src="{% static "Sunflowers.jpg" %}" alt="Sunflowers.jpg" class="img-thumbnail"></td>
+    </tr>
+    <tr>
+      <td>Gallant Statue (David by Michelangelo)</td>
+      <td>The fake is holding a book under his arm</td>
+      <td><img src="{% static "David.jpg" %}" alt="David.jpg" class="img-thumbnail"></td>
+    </tr>
+    <tr>
+      <td>Glowing Painting (The Fighting Temeraire by Joseph Mallord William Turner)</td>
+      <td>This painting is always genuine (so far)</td>
+      <td><img src="{% static "The-Fighting-Temeraire.jpg" %}" alt="The-Fighting-Temeraire.jpg" class="img-thumbnail"></td>
+    </tr>
+    <tr>
+      <td>Graceful Painting (Beauty Looking Back by Hishikawa Moronobu)</td>
+      <td>One fake is missing her white hair clip and she is too large, the other has her facing the wrong direction</td>
+      <td><img src="{% static "Beauty-Looking-Back.jpg" %}" alt="Beauty-Looking-Back.jpg" class="img-thumbnail"></td>
+    </tr>
+    <tr>
+      <td>Great Statue (King Kamehameha I by Thomas Ridgeway Gould)</td>
+      <td>This statue is always genuine (so far)</td>
+      <td><img src="{% static "King-Kamehameha.jpg" %}" alt="King-Kamehameha.jpg" class="img-thumbnail"></td>
+    </tr>
+    <tr>
+      <td>Informative Statue (Rosetta Stone by Unknown)</td>
+      <td>The fake is blue, the real one is black</td>
+      <td><img src="{% static "Rosetta-Stone.jpg" %}" alt="Rosetta-Stone.jpg" class="img-thumbnail"></td>
+    </tr>
+    <tr>
+      <td>Jolly Painting (Summer by Giuseppe Arcimboldo)</td>
+      <td>The fake is missing the sprouting plant from the subject's chest</td>
+      <td><img src="{% static "Summer.jpg" %}" alt="Summer.jpg" class="img-thumbnail"></td>
+    </tr>
+    <tr>
+      <td>Moody Painting (The Sower by Jean-Francois Millet)</td>
+      <td>This painting is always genuine (so far)</td>
+      <td><img src="{% static "The-Sower.jpg" %}" alt="The-Sower.jpg" class="img-thumbnail"></td>
+    </tr>
+    <tr>
+      <td>Motherly Statue (Captoline Wolf by Unknown)</td>
+      <td>The fake has the wolf's tongue out</td>
+      <td><img src="{% static "Capitoline-Wolf.jpg" %}" alt="Capitoline-Wolf.jpg" class="img-thumbnail"></td>
+    </tr>
+    <tr>
+      <td>Moving Painting (The Birth of Venus by Sandro Botticelli)</td>
+      <td>The fake is missing the trees in the upper right corner</td>
+      <td><img src="{% static "The-Birth-of-Venus.jpg" %}" alt="The-Birth-of-Venus.jpg" class="img-thumbnail"></td>
+    </tr>
+    <tr>
+      <td>Mysterious Painting (Isle of the Dead by Arnold Bocklin)</td>
+      <td>This painting is always genuine (so far)</td>
+      <td><img src="{% static "Isle-of-the-Dead.jpg" %}" alt="Isle-of-the-Dead.jpg" class="img-thumbnail"></td>
+    </tr>
+    <tr>
+      <td>Mystic Statue (Bust of Nefertiti by Thutmose)</td>
+      <td>The fake will have an earring on the subject's right ear</td>
+      <td><img src="{% static "Bust-of-Nefertiti.jpg" %}" alt="Bust-of-Nefertiti.jpg" class="img-thumbnail"></td>
+    </tr>
+    <tr>
+      <td>Nice Painting (The Fifer by Edouard Manet)</td>
+      <td>This painting is always genuine (so far)</td>
+      <td><img src="{% static "The-Fifer.jpg" %}" alt="The-Fifer.jpg" class="img-thumbnail"></td>
+    </tr>
+    <tr>
+      <td>Perfect Painting (Apples and Oranges by Paul Cezanne)</td>
+      <td>This painting is always genuine (so far)</td>
+      <td><img src="{% static "Apples-and-Oranges.jpg" %}" alt="Apples-and-Oranges.jpg" class="img-thumbnail"></td>
+    </tr>
+    <tr>
+      <td>Proper Painting (A Bar at the Folies-Bergere by Edouard Manet)</td>
+      <td>This painting is always genuine (so far)</td>
+      <td><img src="{% static "A-Bar-at-the-Folies-Bergere.jpg" %}" alt="A-Bar-at-the-Folies-Bergere.jpg" class="img-thumbnail"></td>
+    </tr>
+    <tr>
+      <td>Quaint Painting (The Milkmaid by Johannes Vermeer)</td>
+      <td>The fake has the woman pouring out much more milk</td>
+      <td><img src="{% static "The-Milkmaid.jpg" %}" alt="The-Milkmaid.jpg" class="img-thumbnail"></td>
+    </tr>
+    <tr>
+      <td>Robust Statue (Discobolus by Unkown)</td>
+      <td>The fake will be wearing a watch on his raised arm</td>
+      <td><img src="{% static "Discobolus.jpg" %}" alt="Discobolus.jpg" class="img-thumbnail"></td>
+    </tr>
+    <tr>
+      <td>Rock-Head Statue (Olmec Colossal Head by Unkown)</td>
+      <td>The fake will be smiling</td>
+      <td><img src="{% static "Olmec-Colossal-Head.jpg" %}" alt="Olmec-Colossal-Head.jpg" class="img-thumbnail"></td>
+    </tr>
+    <tr>
+      <td>Scary Painting (Otani Oniji the 3rd as Yakko Edobei by Toshusai Sharaku)</td>
+      <td>The fake will look more sad than angry</td>
+      <td><img src="{% static "Otani-Oniji.jpg" %}" alt="Otani-Oniji.jpg" class="img-thumbnail"></td>
+    </tr>
+    <tr>
+      <td>Scenic Painting (The Hunters in the Snow by Pieter Brueghel the Elder)</td>
+      <td>The fake will be missing a hunter and some dogs</td>
+      <td><img src="{% static "Hunters-in-the-Snow.jpg" %}" alt="Hunters-in-the-Snow.jpg" class="img-thumbnail"></td>
+    </tr>
+    <tr>
+      <td>Serene Painting (Lady with an Ermine by Leonardo Da Vinci)</td>
+      <td>The fake will have a gray ermine with racoon like eye circles</td>
+      <td><img src="{% static "Lady-with-an-Ermine.jpg" %}" alt="Lady-with-an-Ermine.jpg" class="img-thumbnail"></td>
+    </tr>
+    <tr>
+      <td>Sinking Painting (Ophelia by John Everett Millais)</td>
+      <td>This painting is always genuine (so far)</td>
+      <td><img src="{% static "Ophelia.jpg" %}" alt="Ophelia.jpg" class="img-thumbnail"></td>
+    </tr>
+    <tr>
+      <td>Solemn Painting (Las Meninas by Diego Velazquez)</td>
+      <td>The man in background doorway raises his hand in the fake</td>
+      <td><img src="{% static "Las-Meninas.jpg" %}" alt="Las-Meninas.jpg" class="img-thumbnail"></td>
+    </tr>
+    <tr>
+      <td>Tremendous Statue (Houmuwu Ding by Unkown)</td>
+      <td>The fake version has a lid</td>
+      <td><img src="{% static "Houmuwu-Ding.jpg" %}" alt="Houmuwu-Ding.jpg" class="img-thumbnail"></td>
+    </tr>
+    <tr>
+      <td>Twinkling Painting (The Starry Night by Vincent Van Gogh)</td>
+      <td>This painting is always genuine (so far)</td>
+      <td><img src="{% static "Starry-Night.jpg" %}" alt="Starry-Night.jpg" class="img-thumbnail"></td>
+    </tr>
+    <tr>
+      <td>Valiant Statue (Nike of Samothrace by Unkown)</td>
+      <td>The fake will have Nike's left leg forward</td>
+      <td><img src="{% static "Nike-of-Samothrace.jpg" %}" alt="Nike-of-Samothrace.jpg" class="img-thumbnail"></td>
+    </tr>
+    <tr>
+      <td>Warm Painting (The Clothed Maja by Francisco De Goya)</td>
+      <td>This painting is always genuine (so far)</td>
+      <td><img src="{% static "The-Clothed-Maja.jpg" %}" alt="The-Clothed-Maja.jpg" class="img-thumbnail"></td>
+    </tr>
+    <tr>
+      <td>Warrior Statue (Terracotta Warrior by Unkown)</td>
+      <td>The fake will be holding a shovel, the real version is holding nothing</td>
+      <td><img src="{% static "Terracotta-Warrior.jpg" %}" alt="Terracotta-Warrior.jpg" class="img-thumbnail"></td>
+    </tr>
+    <tr>
+      <td>Wild Painting Left Half (Folding Screen of Fujin and Raijin by Tawaraya Sotatsu)</td>
+      <td>The fake will have a green beast instead of white</td>
+      <td><img src="{% static "Folding-Screen.jpg" %}" alt="Folding-Screen.jpg" class="img-thumbnail"></td>
+    </tr>
+    <tr>
+      <td>Wild Painting Right Half (Folding Screen of Fujin and Raijin by Tawaraya Sotatsu)</td>
+      <td>The fake will have a white beast instead of green</td>
+      <td><img src="{% static "Folding-Screen.jpg" %}" alt="Folding-Screen.jpg" class="img-thumbnail"></td>
+    </tr>
+    <tr>
+      <td>Wistful Painting (Girl with a Pearl Earring by Johannes Vermeer)</td>
+      <td>One fake has a star shaped earring (opposed to round), the other has the subject's eyes closed</td>
+      <td><img src="{% static "Girl-with-a-Pearl-Earring.jpg" %}" alt="Girl-with-a-Pearl-Earring.jpg" class="img-thumbnail"></td>
+    </tr>
+    <tr>
+      <td>Worthy Painting (Liberty Leading the People by Eugene Delacroix)</td>
+      <td>This painting is always genuine (so far)</td>
+      <td><img src="{% static "Liberty-Leading-the-People.png" %}" alt="Liberty-Leading-the-People.png" class="img-thumbnail"></td>
+    </tr>
+  </tbody>
+</table>
+
+
+{% endblock %}
